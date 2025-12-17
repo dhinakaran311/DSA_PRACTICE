@@ -19,8 +19,8 @@ class Solution {
     }
 }
 
-public class Main {
-    public static void minimumCostOfRopes(String[] args) {
+public class MaminimumCostOfRopesin {
+    public static void main(String[] args) {
 
         int[] arr1 = {4, 3, 2, 6};
         int[] arr2 = {4, 2, 7, 6, 9};
