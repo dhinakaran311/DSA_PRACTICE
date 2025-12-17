@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-public class MaminimumCostOfRopesin {
+public class MaminimumCostOfRopes {
     public static void main(String[] args) {
 
         int[] arr1 = {4, 3, 2, 6};
