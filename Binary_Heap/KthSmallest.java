@@ -1,5 +1,5 @@
 import java.util.*;
-    // Gfg : https://www.geeksforgeeks.org/problems/kth-smallest-element5635/
+// Gfg : https://www.geeksforgeeks.org/problems/kth-smallest-element5635/
 public class KthSmallest
 {
 
