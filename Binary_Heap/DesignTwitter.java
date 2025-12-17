@@ -1,11 +1,11 @@
 import java.util.*;
 
-class DesignTwitter {
+class Twitter {
     HashMap<Integer, ArrayList<int[]>> tweets;
     HashMap<Integer, HashSet<Integer>> followMap;
     int time;
 
-    public DesignTwitter() {
+    public Twitter() {
         tweets = new HashMap<>();
         followMap = new HashMap<>();
         time = 0;
@@ -49,7 +49,7 @@ class DesignTwitter {
     }
 }
 
-public class Main {
+public class DesignTwitter {
     public static void main(String[] args) {
 
         Twitter twitter = new Twitter();
