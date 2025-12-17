@@ -28,7 +28,7 @@ public class KthLargestInStreamData {
         int k = 3;
         int[] nums = {4, 5, 8, 2};
 
-        KthLargest obj = new KthLargest(k, nums);
+        KthLargestInStreamData obj = new KthLargestInStreamData(k, nums);
 
         System.out.println(obj.add(3));   // 4
         System.out.println(obj.add(5));   // 5
