@@ -1,7 +1,6 @@
 import java.util.*;
-//GFG https://www.geeksforgeeks.org/problems/maximum-sum-combination/1
-class MaximumSumCombination
- {
+// GFG https://www.geeksforgeeks.org/problems/maximum-sum-combination/1
+class MaximumSumCombination {
 
     public ArrayList<Integer> topKSumPairs(int[] a, int[] b, int k) {
 
@@ -51,7 +50,7 @@ class MaximumSumCombination
 
     public static void main(String[] args) {
 
-        Solution obj = new Solution();
+        MaximumSumCombination obj = new MaximumSumCombination();
 
         int[] a = {1, 4, 2, 3};
         int[] b = {2, 5, 1, 6};
