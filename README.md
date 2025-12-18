@@ -4,16 +4,21 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 ## 📚 Topics
 
-### Binary Heap / Priority Queue
+### Binary Heap / Priority Queue (11 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
 | [Kth Smallest Element](Binary_Heap/KthSmallest.java) | [GFG](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/) | O(n log k) | O(k) |
 | [Kth Largest Element](Binary_Heap/findKthLargest.java) | [LC #215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | O(n log k) | O(k) |
-| [Array Rank Transform](Binary_Heap/RankTransform.java) | - | O(n log n) | O(n) |
+| [Kth Largest in Stream](Binary_Heap/KthLargestInStreamData.java) | [LC #703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log k) | O(k) |
+| [Array Rank Transform](Binary_Heap/RankTransform.java) | [LC #1331](https://leetcode.com/problems/rank-transform-of-an-array/) | O(n log n) | O(n) |
 | [Task Scheduler](Binary_Heap/TaskScheduler.java) | [LC #621](https://leetcode.com/problems/task-scheduler/) | O(n) | O(1) |
-| [Hand of Straights](Binary_Heap/handOfStraights.java) | - | O(n log n) | O(n) |
+| [Hand of Straights](Binary_Heap/handOfStraights.java) | [LC #846](https://leetcode.com/problems/hand-of-straights/) | O(n log n) | O(n) |
 | [Merge K Sorted Lists](Binary_Heap/mergeKLists.java) | [LC #23](https://leetcode.com/problems/merge-k-sorted-lists/) | O(N log k) | O(k) |
+| [Find Median from Stream](Binary_Heap/MedianFinder.java) | [LC #295](https://leetcode.com/problems/find-median-from-data-stream/) | O(log n) | O(n) |
+| [Design Twitter](Binary_Heap/DesignTwitter.java) | [LC #355](https://leetcode.com/problems/design-twitter/) | O(N log k) | O(N) |
+| [Minimum Cost of Ropes](Binary_Heap/MaminimumCostOfRopes.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | O(n log n) | O(n) |
+| [Maximum Sum Combination](Binary_Heap/MaximumSumCombination.java) | [GFG](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | O(k log k) | O(k) |
 
 ### Greedy
 Coming soon...
