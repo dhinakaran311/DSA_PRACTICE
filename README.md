@@ -21,11 +21,13 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Minimum Cost of Ropes](Binary_Heap/MaminimumCostOfRopes.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | O(n log n) | O(n) |
 | [Maximum Sum Combination](Binary_Heap/MaximumSumCombination.java) | [GFG](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | O(k log k) | O(k) |
 
-### Greedy (1 Problem)
+### Greedy (3 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
 | [Assign Cookies](Greedy/AssignCookies.java) | [LC #455](https://leetcode.com/problems/assign-cookies/) | O(n log n) | O(1) |
+| [Fractional Knapsack](Greedy/FractionalKnapsack.java) | [GFG](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | O(n log n) | O(n) |
+| [Minimum Number of Coins](Greedy/FindMinCoins.java) | [GFG](http://geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | O(log n) | O(1) |
 
 ## 🚀 How to Run
 
