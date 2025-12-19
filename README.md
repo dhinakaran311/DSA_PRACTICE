@@ -4,13 +4,14 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 ## 📚 Topics
 
-### Binary Heap / Priority Queue (11 Problems)
+### Binary Heap / Priority Queue (12 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
 | [Kth Smallest Element](Binary_Heap/KthSmallest.java) | [GFG](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/) | O(n log k) | O(k) |
 | [Kth Largest Element](Binary_Heap/findKthLargest.java) | [LC #215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | O(n log k) | O(k) |
 | [Kth Largest in Stream](Binary_Heap/KthLargestInStreamData.java) | [LC #703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log k) | O(k) |
+| [Top K Frequent Elements](Binary_Heap/TopKFrequentElements.java) | [LC #347](https://leetcode.com/problems/top-k-frequent-elements/) | O(n log k) | O(n) |
 | [Array Rank Transform](Binary_Heap/RankTransform.java) | [LC #1331](https://leetcode.com/problems/rank-transform-of-an-array/) | O(n log n) | O(n) |
 | [Task Scheduler](Binary_Heap/TaskScheduler.java) | [LC #621](https://leetcode.com/problems/task-scheduler/) | O(n) | O(1) |
 | [Hand of Straights](Binary_Heap/handOfStraights.java) | [LC #846](https://leetcode.com/problems/hand-of-straights/) | O(n log n) | O(n) |
@@ -43,4 +44,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: December 18, 2025
+**Last Updated**: December 19, 2025
