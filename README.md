@@ -2,7 +2,7 @@
 
 A collection of Data Structures and Algorithms implementations in Java for problem-solving and interview preparation.
 
-## 📚 Topics
+##  Topics
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -31,7 +31,7 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Lemonade Change](Greedy/LemonadeChange.java) | [LC #860](https://leetcode.com/problems/lemonade-change/) | O(n) | O(1) |
 | [Valid Parenthesis String](Greedy/ValidParenthesisString.java) | [LC #678](https://leetcode.com/problems/valid-parenthesis-string/) | O(n) | O(1) |
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Compile
@@ -43,7 +43,7 @@ java Binary_Heap.KthSmallest
 
 Or use your IDE to run the files directly.
 
-## 🔮 Future Topics
+##  Future Topics
 - Dynamic Programming
 - Graph Algorithms
 - Trees
