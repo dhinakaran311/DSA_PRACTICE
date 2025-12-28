@@ -21,7 +21,7 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Minimum Cost of Ropes](Binary_Heap/MaminimumCostOfRopes.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | O(n log n) | O(n) |
 | [Maximum Sum Combination](Binary_Heap/MaximumSumCombination.java) | [GFG](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | O(k log k) | O(k) |
 
-### Greedy (8 Problems)
+### Greedy (9 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -33,6 +33,7 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [N Meetings in One Room](Greedy/NmeetingsInOneRoom.java) | [GFG](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | O(n log n) | O(n) |
 | [Jump Game](Greedy/JumpGame1.java) | [LC #55](https://leetcode.com/problems/jump-game/) | O(n) | O(1) |
 | [Jump Game II](Greedy/JumpGame2.java) | [LC #45](https://leetcode.com/problems/jump-game-ii/) | O(n) | O(1) |
+| [Minimum Platforms](Greedy/minimumplatforms.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | O(n log n) | O(1) |
 
 ##  How to Run
 
@@ -54,4 +55,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: December 27, 2025
+**Last Updated**: December 28, 2025
