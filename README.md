@@ -21,7 +21,7 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Minimum Cost of Ropes](Binary_Heap/MaminimumCostOfRopes.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | O(n log n) | O(n) |
 | [Maximum Sum Combination](Binary_Heap/MaximumSumCombination.java) | [GFG](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | O(k log k) | O(k) |
 
-### Greedy (12 Problems)
+### Greedy (15 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -37,6 +37,9 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Shortest Job First](Greedy/SJF.java) | [GFG](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | O(n log n) | O(1) |
 | [LRU Cache](Greedy/LRUCache.java) | [LC #146](https://leetcode.com/problems/lru-cache/) | O(1) | O(n) |
 | [Minimum Platforms](Greedy/minimumplatforms.java) | [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | O(n log n) | O(1) |
+| [Merge Intervals](Greedy/MergeIntervals.java) | [LC #56](https://leetcode.com/problems/merge-intervals/) | O(n log n) | O(n) |
+| [Insert Interval](Greedy/InsertInterval.java) | [LC #57](https://leetcode.com/problems/insert-interval/) | O(n) | O(n) |
+| [Non-overlapping Intervals](Greedy/NonOverlappingIntervals435.java) | [LC #435](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 
 ##  How to Run
 
@@ -58,4 +61,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 2, 2026
+**Last Updated**: January 3, 2026
