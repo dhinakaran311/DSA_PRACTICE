@@ -2,7 +2,29 @@
 
 A collection of Data Structures and Algorithms implementations in Java for problem-solving and interview preparation.
 
-##  Topics
+##  Quick Overview
+
+| Topic | Problems Solved |
+|-------|----------------|
+| [Arrays](#arrays-6-problems) | 6 |
+| [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
+| [Greedy](#greedy-15-problems) | 15 |
+| **Total** | **33** |
+
+---
+
+## 📋 Topics
+
+### Arrays (6 Problems)
+
+| Problem | Source | Time | Space |
+|---------|--------|------|-------|
+| [Largest Element in Array](Arrays/largestElementInArray.java) | [GFG](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | O(n) | O(1) |
+| [Second Largest](Arrays/SecondLargest.java) | [GFG](https://www.geeksforgeeks.org/problems/second-largest3735/1) | O(n) | O(1) |
+| [Check if Sorted and Rotated](Arrays/CheckSorted.java) | [LC #1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | O(n) | O(1) |
+| [Remove Duplicates from Sorted Array](Arrays/RemoveDuplicates.java) | [LC #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | O(n) | O(1) |
+| [Rotate Array](Arrays/RotateArray.java) | [LC #189](https://leetcode.com/problems/rotate-array/) | O(n) | O(1) |
+| [Move Zeroes](Arrays/MoveZeroesToEnd.java) | [LC #283](https://leetcode.com/problems/move-zeroes/) | O(n) | O(1) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -41,14 +63,16 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Insert Interval](Greedy/InsertInterval.java) | [LC #57](https://leetcode.com/problems/insert-interval/) | O(n) | O(n) |
 | [Non-overlapping Intervals](Greedy/NonOverlappingIntervals435.java) | [LC #435](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 
+---
+
 ##  How to Run
 
 ```bash
 # Compile
-javac Binary_Heap/KthSmallest.java
+javac Arrays/RotateArray.java
 
 # Run
-java Binary_Heap.KthSmallest
+java Arrays.RotateArray
 ```
 
 Or use your IDE to run the files directly.
@@ -61,4 +85,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 3, 2026
+**Last Updated**: January 5, 2026
