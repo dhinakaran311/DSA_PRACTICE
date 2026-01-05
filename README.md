@@ -2,20 +2,20 @@
 
 A collection of Data Structures and Algorithms implementations in Java for problem-solving and interview preparation.
 
-##  Quick Overview
+## 📊 Quick Overview
 
 | Topic | Problems Solved |
 |-------|----------------|
-| [Arrays](#arrays-6-problems) | 6 |
+| [Arrays](#arrays-13-problems) | 13 |
 | [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
 | [Greedy](#greedy-15-problems) | 15 |
-| **Total** | **33** |
+| **Total** | **40** |
 
 ---
 
 ## 📋 Topics
 
-### Arrays (6 Problems)
+### Arrays (13 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -25,6 +25,13 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Remove Duplicates from Sorted Array](Arrays/RemoveDuplicates.java) | [LC #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | O(n) | O(1) |
 | [Rotate Array](Arrays/RotateArray.java) | [LC #189](https://leetcode.com/problems/rotate-array/) | O(n) | O(1) |
 | [Move Zeroes](Arrays/MoveZeroesToEnd.java) | [LC #283](https://leetcode.com/problems/move-zeroes/) | O(n) | O(1) |
+| [Linear Search](Arrays/LinearArraySearch.java) | [GFG](https://www.geeksforgeeks.org/problems/array-search/1) | O(n) | O(1) |
+| [Union of Two Sorted Arrays](Arrays/UnionOfTwoSortedArraysGFG.java) | [GFG](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | O(n+m) | O(n+m) |
+| [Missing Number](Arrays/MissingNumber.java) | [LC #268](https://leetcode.com/problems/missing-number/) | O(n) | O(1) |
+| [Max Consecutive Ones](Arrays/MaxConsecutiveOnes.java) | [LC #485](https://leetcode.com/problems/max-consecutive-ones/) | O(n) | O(1) |
+| [Single Number](Arrays/SingleNumber.java) | [LC #136](https://leetcode.com/problems/single-number/) | O(n) | O(1) |
+| [Longest Subarray with Sum K](Arrays/LongestSubarraySumK.java) | [GFG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | O(n) | O(n) |
+| [Two Sum](Arrays/TwoSum.java) | [LC #1](https://leetcode.com/problems/two-sum/) | O(n) | O(n) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
