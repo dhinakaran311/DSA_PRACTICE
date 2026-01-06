@@ -6,16 +6,16 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 | Topic | Problems Solved |
 |-------|----------------|
-| [Arrays](#arrays-13-problems) | 13 |
+| [Arrays](#arrays-18-problems) | 18 |
 | [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
 | [Greedy](#greedy-15-problems) | 15 |
-| **Total** | **40** |
+| **Total** | **45** |
 
 ---
 
 ## 📋 Topics
 
-### Arrays (13 Problems)
+### Arrays (18 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -32,6 +32,11 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Single Number](Arrays/SingleNumber.java) | [LC #136](https://leetcode.com/problems/single-number/) | O(n) | O(1) |
 | [Longest Subarray with Sum K](Arrays/LongestSubarraySumK.java) | [GFG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | O(n) | O(n) |
 | [Two Sum](Arrays/TwoSum.java) | [LC #1](https://leetcode.com/problems/two-sum/) | O(n) | O(n) |
+| [Sort Colors](Arrays/SortColors.java) | [LC #75](https://leetcode.com/problems/sort-colors/) | O(n) | O(1) |
+| [Majority Element](Arrays/MajorityElement.java) | [LC #169](https://leetcode.com/problems/majority-element/) | O(n) | O(1) |
+| [Maximum Subarray](Arrays/MaximumSubarray.java) | [LC #53](https://leetcode.com/problems/maximum-subarray/) | O(n) | O(1) |
+| [Best Time to Buy and Sell Stock](Arrays/BestTimeToBuySellStock.java) | [LC #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | O(n) | O(1) |
+| [Rearrange Array by Sign](Arrays/RearrangeArrayBySign.java) | [LC #2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | O(n) | O(n) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -92,4 +97,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 5, 2026
+**Last Updated**: January 6, 2026
