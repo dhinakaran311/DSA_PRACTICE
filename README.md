@@ -6,16 +6,16 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 | Topic | Problems Solved |
 |-------|----------------|
-| [Arrays](#arrays-18-problems) | 18 |
+| [Arrays](#arrays-21-problems) | 21 |
 | [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
 | [Greedy](#greedy-15-problems) | 15 |
-| **Total** | **45** |
+| **Total** | **48** |
 
 ---
 
 ## 📋 Topics
 
-### Arrays (18 Problems)
+### Arrays (21 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -37,6 +37,9 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Maximum Subarray](Arrays/MaximumSubarray.java) | [LC #53](https://leetcode.com/problems/maximum-subarray/) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock](Arrays/BestTimeToBuySellStock.java) | [LC #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | O(n) | O(1) |
 | [Rearrange Array by Sign](Arrays/RearrangeArrayBySign.java) | [LC #2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | O(n) | O(n) |
+| [Next Permutation](Arrays/nextPermutation.java) | [LC #31](https://leetcode.com/problems/next-permutation/) | O(n) | O(1) |
+| [Leaders in Array](Arrays/leadersInArray.java) | [GFG](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | O(n) | O(n) |
+| [Longest Consecutive Sequence](Arrays/longestConsecutive.java) | [LC #128](https://leetcode.com/problems/longest-consecutive-sequence/) | O(n) | O(n) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -97,4 +100,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 6, 2026
+**Last Updated**: January 8, 2026
