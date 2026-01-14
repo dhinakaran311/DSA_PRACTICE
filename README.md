@@ -6,16 +6,16 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 | Topic | Problems Solved |
 |-------|----------------|
-| [Arrays](#arrays-21-problems) | 21 |
+| [Arrays](#arrays-32-problems) | 32 |
 | [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
 | [Greedy](#greedy-15-problems) | 15 |
-| **Total** | **48** |
+| **Total** | **59** |
 
 ---
 
 ## 📋 Topics
 
-### Arrays (21 Problems)
+### Arrays (32 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -40,6 +40,17 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Next Permutation](Arrays/nextPermutation.java) | [LC #31](https://leetcode.com/problems/next-permutation/) | O(n) | O(1) |
 | [Leaders in Array](Arrays/leadersInArray.java) | [GFG](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | O(n) | O(n) |
 | [Longest Consecutive Sequence](Arrays/longestConsecutive.java) | [LC #128](https://leetcode.com/problems/longest-consecutive-sequence/) | O(n) | O(n) |
+| [Merge Sorted Array](Arrays/MergeSortedArray.java) | [LC #88](https://leetcode.com/problems/merge-sorted-array/) | O(m+n) | O(1) |
+| [Majority Element II](Arrays/majorityElement2.java) | [LC #229](https://leetcode.com/problems/majority-element-ii/) | O(n) | O(1) |
+| [Pascal's Triangle](Arrays/pascalTriangle.java) | [LC #118](https://leetcode.com/problems/pascals-triangle/) | O(n²) | O(n²) |
+| [Set Matrix Zeroes](Arrays/SetMatrixZeroes.java) | [LC #73](https://leetcode.com/problems/set-matrix-zeroes/) | O(m×n) | O(1) |
+| [Spiral Matrix](Arrays/SpiralMatrix.java) | [LC #54](https://leetcode.com/problems/spiral-matrix/) | O(m×n) | O(1) |
+| [Rotate Matrix](Arrays/RotateMatrix.java) | [LC #48](https://leetcode.com/problems/rotate-image/) | O(n²) | O(1) |
+| [Subarray Sum Equals K](Arrays/SubarraySumK.java) | [LC #560](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
+| [3Sum](Arrays/ThreeSum.java) | [LC #15](https://leetcode.com/problems/3sum/) | O(n²) | O(1) |
+| [4Sum](Arrays/FourSum.java) | [LC #18](https://leetcode.com/problems/4sum/) | O(n³) | O(1) |
+| [Largest Subarray with 0 Sum](Arrays/LargestSubarrayZeroSum.java) | [GFG](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | O(n) | O(n) |
+| [Count Subarrays with given XOR](Arrays/CountSubarraysWithXOR.java) | [GFG](https://www.geeksforgeeks.org/problems/count-subarrays-with-given-xor/1) | O(n) | O(n) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -100,4 +111,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 8, 2026
+**Last Updated**: January 14, 2026
