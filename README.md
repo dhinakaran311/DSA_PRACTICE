@@ -6,17 +6,18 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 
 | Topic | Problems Solved |
 |-------|----------------|
-| [Arrays](#arrays-33-problems) | 33 |
+| [Arrays](#arrays-34-problems) | 34 |
+| [Binary Search](#binary-search-1-problem) | 1 |
 | [Binary Heap](#binary-heap--priority-queue-12-problems) | 12 |
-| [Binary Tree](#binary-tree-8-problems) | 8 |
+| [Binary Tree](#binary-tree-12-problems) | 12 |
 | [Greedy](#greedy-15-problems) | 15 |
-| **Total** | **68** |
+| **Total** | **74** |
 
 ---
 
 ## 📋 Topics
 
-### Arrays (33 Problems)
+### Arrays (34 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -53,8 +54,15 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Largest Subarray with 0 Sum](Arrays/LargestSubarrayZeroSum.java) | [GFG](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | O(n) | O(n) |
 | [Count Subarrays with given XOR](Arrays/CountSubarraysWithXOR.java) | [GFG](https://www.geeksforgeeks.org/problems/count-subarrays-with-given-xor/1) | O(n) | O(n) |
 | [Find Missing and Repeating](Arrays/repeatingAndMissingNumber.java) | [GFG](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | O(n) | O(1) |
+| [Merge Intervals](Arrays/MergeIntervals.java) | [LC #56](https://leetcode.com/problems/merge-intervals/) | O(n log n) | O(n) |
 
-### Binary Tree (8 Problems)
+### Binary Search (1 Problem)
+
+| Problem | Source | Time | Space |
+|---------|--------|------|-------|
+| [Binary Search](Binary%20Search/binarySearch.java) | [LC #704](https://leetcode.com/problems/binary-search/) | O(log n) | O(1) |
+
+### Binary Tree (12 Problems)
 
 | Problem | Source | Time | Space |
 |---------|--------|------|-------|
@@ -66,6 +74,10 @@ A collection of Data Structures and Algorithms implementations in Java for probl
 | [Binary Tree Preorder Traversal (Iterative)](Binary_Tree/PreorderIterative.java) | [LC #144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | O(n) | O(h) |
 | [Binary Tree Postorder Traversal (Iterative)](Binary_Tree/PostorderIterative.java) | [LC #145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | O(n) | O(h) |
 | [Binary Tree Level Order Traversal](Binary_Tree/LevelOrderTraverse.java) | [LC #102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | O(n) | O(n) |
+| [Binary Tree Zigzag Level Order Traversal](Binary_Tree/Zigzag.java) | [LC #103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | O(n) | O(n) |
+| [Vertical Order Traversal](Binary_Tree/verticalTraversal.java) | [LC #987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | O(n log n) | O(n) |
+| [Top View of Binary Tree](Binary_Tree/topView.java) | [GFG](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | O(n) | O(n) |
+| [Boundary Traversal](Binary_Tree/boundaryTraversal.java) | [GFG](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | O(n) | O(h) |
 
 ### Binary Heap / Priority Queue (12 Problems)
 
@@ -125,4 +137,4 @@ Or use your IDE to run the files directly.
 - Sorting & Searching
 
 ---
-**Last Updated**: January 22, 2026
+**Last Updated**: February 10, 2026
